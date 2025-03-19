@@ -1,0 +1,7 @@
+tkinter (built-in)
+customtkinter (third-party)
+Pillow (third-party, for handling images)
+aria2c (external tool, used via subprocess)
+
+    #INSTALL USNG PIP#
+        python -m pip install pillow customtkinter aria2 tkinter
